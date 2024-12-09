@@ -94,6 +94,7 @@ asynchronous operations, destructuring, constructors, and module management.
   <li>Analyze how hoisting affects variable and function declarations.</li>
   <li>Solve a real-world problem by building a stock ticker using JavaScript.</li>
 </ul>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### a. Course Intro:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
