@@ -23,12 +23,13 @@ impactful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 3 courses - Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### &nbsp;&nbsp;&nbsp; 1) Objects, Loops, Hoisting (5 hours)
-### &nbsp;&nbsp;&nbsp; 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
-### &nbsp;&nbsp;&nbsp; 3) Objects, Collections, Functions (4 hours)
+###&nbsp;&nbsp;&nbsp; 1) Objects, Loops, Hoisting (5 hours)
+###&nbsp;&nbsp;&nbsp; 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
+###&nbsp;&nbsp;&nbsp; 3) Objects, Collections, Functions (4 hours)
+##
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Summary of what you'll learn in the 3 courses;
-## 1) Objects, Loops, Hoisting Course (5 hours)
+## &nbsp;&nbsp;&nbsp;1) Objects, Loops, Hoisting Course (5 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Concepts such as the ternary operator, switch statements, object destructuring, and 
@@ -48,7 +49,7 @@ concise, reusable JavaScript.
 	• Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 2) Async JS, APIs, Operators, Objects Course 2 (3 hours)
+## &nbsp;&nbsp;&nbsp;2) Async JS, APIs, Operators, Objects Course 2 (3 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Understand essential object manipulation techniques in JavaScript, including methods, 
@@ -61,7 +62,7 @@ Make asynchronous API requests using JavaScript, manage promises, and handle asy
 operations with techniques such as async/await and Promise.all().
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 3) Objects, Collections, Functions Course 3 (4 hours)
+## &nbsp;&nbsp;&nbsp;3) Objects, Collections, Functions Course 3 (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Custom objects in JavaScript, including inheritance, method usage, and private property 
@@ -75,23 +76,24 @@ and scalability of your code.
 
 <!-- Begin course #1. -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Course #1 - Objects, Loops, Hoisting
+## 1) Objects, Loops, Hoisting
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This section covers foundational concepts of advanced JavaScript, including conditionals, 
 asynchronous operations, destructuring, constructors, and module management.
 
 ## Learning Objectives
-	- Implement the ternary operator for simple and complex conditional logic.
-	- Utilize switch statements to streamline decision-making structures.
-	- Apply object destructuring to extract data from objects efficiently.
-	- Create timed operations using setTimeout and setInterval.
-	- Understand how the event loop handles asynchronous operations in JavaScript.
-	- Implement module imports and exports with named and default options.
-	- Construct and manage date objects using the Date() constructor.
-	- Generate and handle errors using the Error() constructor.
-	- Analyze how hoisting affects variable and function declarations.
-	- • Solve a real-world problem by building a stock ticker using JavaScript.
-
+<ul>
+  <li>Implement the ternary operator for simple and complex conditional logic.</li>
+  <li>Utilize switch statements to streamline decision-making structures.</li>
+  <li>Apply object destructuring to extract data from objects efficiently.</li>
+  <li>Create timed operations using setTimeout and setInterval.</li>
+  <li>Understand how the event loop handles asynchronous operations in JavaScript.</li>
+  <li>Implement module imports and exports with named and default options.</li>
+  <li>Construct and manage date objects using the Date() constructor.</li>
+  <li>Generate and handle errors using the Error() constructor.</li>
+  <li>Analyze how hoisting affects variable and function declarations.</li>
+  <li>Solve a real-world problem by building a stock ticker using JavaScript.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### a. Course Intro:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
