@@ -21,15 +21,15 @@ leverage JavaScript to create solutions that are efficient, scalable, reliable, 
 impactful.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 3 courses;
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JS Specialization
+## 3 courses - Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 1) Objects, Loops, Hoisting (5 hours)
 ### 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
 ### 3) Objects, Collections, Functions (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 1) Advanced JavaScript: Objects, Loops, Hoisting Course (5 hours)
+### Summary of what you'll learn in the 3 courses;
+
+#### 1) Advanced JavaScript: Objects, Loops, Hoisting Course (5 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Concepts such as the ternary operator, switch statements, object destructuring, and 
@@ -42,16 +42,11 @@ How to use function expressions, arrow functions, and default parameters to writ
 concise, reusable JavaScript.
 
 ### Skills you'll gain
-	- Category: Front End (Software Engineering)
-	- Front End (Software Engineering)
-	- Category: Full Stack Development
-	* • Full Stack Development
-	* • Category: JavaScript (Programming Language)
-	* • JavaScript (Programming Language)
-	* • Category: Front-End Engineering
-	* • Front-End Engineering
-	* • Category: Web Development
-	* • Web Development
+	• Front End (Software Engineering)
+	• Full Stack Development
+	• JavaScript (Programming Language)
+	• Front-End Engineering
+	• Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Advanced JavaScript 2: Async JS, APIs, Operators, Objects Course 2 (3 hours)
@@ -67,16 +62,11 @@ Make asynchronous API requests using JavaScript, manage promises, and handle asy
 operations with techniques such as async/await and Promise.all().
 
 ### Skills you'll gain
-	- • Category: Front End (Software Engineering)
-	- • Front End (Software Engineering)
-	- • Category: Full Stack Development
-	- • Full Stack Development
-	- • Category: JavaScript (Programming Language)
-	- • JavaScript (Programming Language)
-	- • Category: Front-End Engineering
-	- • Front-End Engineering
-	- • Category: Web Development
-	- • Web Development
+	- Front End (Software Engineering)
+	• Full Stack Development
+	• JavaScript (Programming Language)
+	• Front-End Engineering
+	• Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Advanced JavaScript 3: Objects, Collections, Functions Course 3 (4 hours)
@@ -92,13 +82,9 @@ Function techniques such as closures, recursion, and debouncing, improving the p
 and scalability of your code.
 
 ### Skills you'll gain
-	- Category: Front End (Software Engineering)
 	- Front End (Software Engineering)
-	- Category: Full Stack Development
 	- Full Stack Development
-	- Category: JavaScript (Programming Language)
 	- JavaScript (Programming Language)
-	- Category: Web Development
 	- Web Development
 
 <!-- Begin course #1. -->
