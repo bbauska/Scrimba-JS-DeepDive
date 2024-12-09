@@ -23,9 +23,9 @@ impactful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 3 courses - Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-&nbsp;&nbsp;&nbsp;### 1) Objects, Loops, Hoisting (5 hours)
-&nbsp;&nbsp;&nbsp;### 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
-&nbsp;&nbsp;&nbsp;### 3) Objects, Collections, Functions (4 hours)
+### &nbsp;&nbsp;&nbsp; 1) Objects, Loops, Hoisting (5 hours)
+### &nbsp;&nbsp;&nbsp; 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
+### &nbsp;&nbsp;&nbsp; 3) Objects, Collections, Functions (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Summary of what you'll learn in the 3 courses;
 ## 1) Objects, Loops, Hoisting Course (5 hours)
