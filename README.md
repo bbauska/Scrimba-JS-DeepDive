@@ -26,9 +26,9 @@ impactful.
 ## Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-	### 1) Objects, Loops, Hoisting (5 hours)
-	### 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
-	### 3) Objects, Collections, Functions (4 hours)
+### 	1) Objects, Loops, Hoisting (5 hours)
+### 	2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
+### 	3) Objects, Collections, Functions (4 hours)
 
 				
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
