@@ -25,11 +25,11 @@ impactful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 	1) Objects, Loops, Hoisting (5 hours)
-### 	2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
-### 	3) Objects, Collections, Functions (4 hours)
+### 1) Objects, Loops, Hoisting (5 hours)
+### 2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
+### 3) Objects, Collections, Functions (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 1: Objects, Loops, Hoisting Course 1 (5 hours)
+## 1) Advanced JavaScript: Objects, Loops, Hoisting Course (5 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Concepts such as the ternary operator, switch statements, object destructuring, and 
@@ -42,9 +42,9 @@ How to use function expressions, arrow functions, and default parameters to writ
 concise, reusable JavaScript.
 
 ### Skills you'll gain
-	* • Category: Front End (Software Engineering)
-	* • Front End (Software Engineering)
-	* • Category: Full Stack Development
+	- Category: Front End (Software Engineering)
+	- Front End (Software Engineering)
+	- Category: Full Stack Development
 	* • Full Stack Development
 	* • Category: JavaScript (Programming Language)
 	* • JavaScript (Programming Language)
