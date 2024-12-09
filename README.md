@@ -25,17 +25,13 @@ impactful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Advanced JS Specialization
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ### 	1) Objects, Loops, Hoisting (5 hours)
 ### 	2) Adv JS 2: Async JS, APIs, Operators, Objects (3 hours)
 ### 	3) Objects, Collections, Functions (4 hours)
-
-				
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 1: Objects, Loops, Hoisting
-## Course 1 (5 hours)
+## Advanced JavaScript 1: Objects, Loops, Hoisting Course 1 (5 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-• What you'll learn
+### What you'll learn
 Concepts such as the ternary operator, switch statements, object destructuring, and 
 asynchronous functions such as setTimeout and setInterval.
 
@@ -45,7 +41,7 @@ over and manipulate arrays and objects.
 How to use function expressions, arrow functions, and default parameters to write 
 concise, reusable JavaScript.
 
-• Skills you'll gain
+### Skills you'll gain
 	* • Category: Front End (Software Engineering)
 	* • Front End (Software Engineering)
 	* • Category: Full Stack Development
@@ -58,10 +54,9 @@ concise, reusable JavaScript.
 	* • Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 2: Async JS, APIs, Operators, Objects
-## Course 2 (3 hours)
+## Advanced JavaScript 2: Async JS, APIs, Operators, Objects Course 2 (3 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-• What you'll learn
+### What you'll learn
 Understand essential object manipulation techniques in JavaScript, including methods, 
 property validation, cloning, and the correct use of this.
 
@@ -71,7 +66,7 @@ efficient and error-resistant JavaScript.
 Make asynchronous API requests using JavaScript, manage promises, and handle async 
 operations with techniques such as async/await and Promise.all().
 
-• Skills you'll gain
+### Skills you'll gain
 	- • Category: Front End (Software Engineering)
 	- • Front End (Software Engineering)
 	- • Category: Full Stack Development
@@ -84,10 +79,9 @@ operations with techniques such as async/await and Promise.all().
 	- • Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 3: Objects, Collections, Functions
-## Course 3 (4 hours)
+## Advanced JavaScript 3: Objects, Collections, Functions Course 3 (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-• What you'll learn
+### What you'll learn
 Custom objects in JavaScript, including inheritance, method usage, and private property 
 control.
 
@@ -97,22 +91,22 @@ efficient data management and optimized code execution.
 Function techniques such as closures, recursion, and debouncing, improving the performance 
 and scalability of your code.
 
-• Skills you'll gain
-	- • Category: Front End (Software Engineering)
-	- • Front End (Software Engineering)
-	- • Category: Full Stack Development
-	- • Full Stack Development
-	- • Category: JavaScript (Programming Language)
-	- • JavaScript (Programming Language)
-	- • Category: Web Development
-	- • Web Development
+### Skills you'll gain
+	- Category: Front End (Software Engineering)
+	- Front End (Software Engineering)
+	- Category: Full Stack Development
+	- Full Stack Development
+	- Category: JavaScript (Programming Language)
+	- JavaScript (Programming Language)
+	- Category: Web Development
+	- Web Development
 
 <!-- Begin course #1. -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Course 1 - Adv JS Foundations: Objects, Loops, Hoisting
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-This section covers foundational concepts of advanced JavaScript, including conditionals, asynchronous operations, destructuring, constructors, and module management.
+This section covers foundational concepts of advanced JavaScript, including conditionals, 
+asynchronous operations, destructuring, constructors, and module management.
 
 ## Learning Objectives
 	- • Implement the ternary operator for simple and complex conditional logic.
@@ -126,12 +120,14 @@ This section covers foundational concepts of advanced JavaScript, including cond
 	- • Analyze how hoisting affects variable and function declarations.
 	- • Solve a real-world problem by building a stock ticker using JavaScript.
 
-Course Intro:
-
-Advanced Foundations Intro
-
-The Ternary Operators
-
+### a. Course Intro:
+### b. Advanced Foundations Intro
+### c. The Ternary Operator
+### d. The Ternary Operator for Complex Conditionals
+### e. The Ternary Operator Challenge
+### f. Switch Statements
+### g. Object Destructuring
+### h. Object Destructuring Challenge
 
 
 
