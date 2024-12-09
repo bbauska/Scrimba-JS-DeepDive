@@ -28,8 +28,7 @@ impactful.
 ### 3) Objects, Collections, Functions (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Summary of what you'll learn in the 3 courses;
-
-#### 1) Advanced JavaScript: Objects, Loops, Hoisting Course (5 hours)
+## 1) Objects, Loops, Hoisting Course (5 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Concepts such as the ternary operator, switch statements, object destructuring, and 
@@ -41,7 +40,7 @@ over and manipulate arrays and objects.
 How to use function expressions, arrow functions, and default parameters to write 
 concise, reusable JavaScript.
 
-### Skills you'll gain
+### Skills you'll gain in each of the 3 courses;
 	• Front End (Software Engineering)
 	• Full Stack Development
 	• JavaScript (Programming Language)
@@ -49,7 +48,7 @@ concise, reusable JavaScript.
 	• Web Development
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 2: Async JS, APIs, Operators, Objects Course 2 (3 hours)
+## 2) Async JS, APIs, Operators, Objects Course 2 (3 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Understand essential object manipulation techniques in JavaScript, including methods, 
@@ -61,15 +60,8 @@ efficient and error-resistant JavaScript.
 Make asynchronous API requests using JavaScript, manage promises, and handle async 
 operations with techniques such as async/await and Promise.all().
 
-### Skills you'll gain
-	- Front End (Software Engineering)
-	• Full Stack Development
-	• JavaScript (Programming Language)
-	• Front-End Engineering
-	• Web Development
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Advanced JavaScript 3: Objects, Collections, Functions Course 3 (4 hours)
+## 3) Objects, Collections, Functions Course 3 (4 hours)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### What you'll learn
 Custom objects in JavaScript, including inheritance, method usage, and private property 
@@ -81,39 +73,75 @@ efficient data management and optimized code execution.
 Function techniques such as closures, recursion, and debouncing, improving the performance 
 and scalability of your code.
 
-### Skills you'll gain
-	- Front End (Software Engineering)
-	- Full Stack Development
-	- JavaScript (Programming Language)
-	- Web Development
-
 <!-- Begin course #1. -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Course 1 - Adv JS Foundations: Objects, Loops, Hoisting
+# Course #1 - Objects, Loops, Hoisting
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This section covers foundational concepts of advanced JavaScript, including conditionals, 
 asynchronous operations, destructuring, constructors, and module management.
 
 ## Learning Objectives
-	- • Implement the ternary operator for simple and complex conditional logic.
-	- • Utilize switch statements to streamline decision-making structures.
-	- • Apply object destructuring to extract data from objects efficiently.
-	- • Create timed operations using setTimeout and setInterval.
-	- • Understand how the event loop handles asynchronous operations in JavaScript.
-	- • Implement module imports and exports with named and default options.
-	- • Construct and manage date objects using the Date() constructor.
-	- • Generate and handle errors using the Error() constructor.
-	- • Analyze how hoisting affects variable and function declarations.
+	- Implement the ternary operator for simple and complex conditional logic.
+	- Utilize switch statements to streamline decision-making structures.
+	- Apply object destructuring to extract data from objects efficiently.
+	- Create timed operations using setTimeout and setInterval.
+	- Understand how the event loop handles asynchronous operations in JavaScript.
+	- Implement module imports and exports with named and default options.
+	- Construct and manage date objects using the Date() constructor.
+	- Generate and handle errors using the Error() constructor.
+	- Analyze how hoisting affects variable and function declarations.
 	- • Solve a real-world problem by building a stock ticker using JavaScript.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### a. Course Intro:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### b. Advanced Foundations Intro
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### c. The Ternary Operator
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### d. The Ternary Operator for Complex Conditionals
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### e. The Ternary Operator Challenge
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### f. Switch Statements
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### g. Object Destructuring
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### h. Object Destructuring Challenge
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### i. setTimeout
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### j. setTimeout with params
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### k. setInterval
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### l. The Event Loop
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### m. ImportExport: named
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### n. ImportExport: default
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### o. The Date() Constructor
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### p. The Error() Constructor
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### q. Pre-increment
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### r. Numeric Separators & BigInt
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### s. Hoisting
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### t. Super Challenge: Stock Ticker
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### u. Super Challenge: Stock Ticker - Solution
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+### v. Advanced Foundations Outro
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+
+
+
 
 
 
